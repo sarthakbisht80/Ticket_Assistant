@@ -60,6 +60,16 @@ frontend/
     App.jsx
 ```
 
+
+## Project Screenshots
+<h2>Dashboard-Page</h2>
+<img src="frontend/public/Dashboard.png" width="800"/>
+
+
+<h2>Ticket Detail</h2>
+
+<img  src="frontend/public/ticketDetail.png" width="800"/>
+
 ---
 
 ## Setup Instructions
