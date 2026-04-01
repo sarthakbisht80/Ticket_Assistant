@@ -1,7 +1,8 @@
 import axios from "axios"
 //i am using axios for fectchig backend url 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api"
+  // baseURL: "http://localhost:5000/api"
+  baseURL:"https://ticket-assistant-1.onrender.com/api"
 })
 
 export const createTicket = (data) => API.post("/tickets", data)
