@@ -141,7 +141,7 @@ npm run dev
 
 ## Deployment
 
-Frontend: Vercel
+Frontend: Vercel- https://ticket-assistant-iota.vercel.app/
 
 Backend: Render -  https://ticket-assistant-1.onrender.com/api/tickets
 
