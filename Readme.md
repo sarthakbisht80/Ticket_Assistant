@@ -142,7 +142,8 @@ npm run dev
 ## Deployment
 
 Frontend: Vercel
-Backend: Render 
+
+Backend: Render -  https://ticket-assistant-1.onrender.com/api/tickets
 
 ---
 
