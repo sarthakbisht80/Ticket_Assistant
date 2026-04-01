@@ -142,7 +142,7 @@ npm run dev
 ## Deployment
 
 Frontend: Vercel
-Backend: Render / Railway / Cyclic
+Backend: Render 
 
 ---
 
